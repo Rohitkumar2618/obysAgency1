@@ -43,7 +43,7 @@ function loadingAnimation() {
     });
 
     t1.from(".hero h1", {
-        y: 120,
+        y: 140,
         stagger: 0.2
     })
 
